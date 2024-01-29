@@ -23,10 +23,6 @@ Para activar el entorno virtual, necesita utilizar el siguiente comando (*Nota: 
 
 >conda activate gnn_project_1
 
-Verificar que el entorno virtual esté activado:
-**Importante: El script Graph2Vec requiere de otro entorno virtual ya que necesita una versión previa de numpy**
-
-
 >conda env list</br>
 gnn_project_1      *  C:\Users\myuser\anaconda3\envs\gnn_project_test
 
