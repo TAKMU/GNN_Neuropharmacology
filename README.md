@@ -55,8 +55,8 @@ Los scripts son los siguientes:
   <li>*3_Graph_Classification.ipynb:*Jupyter Notebook con el objetivo de probar con la funcionalidad de pyg respecto a *clasificación de grafos*. </li>
     <li>*ex_link_prediction.ipynb:* Jupyter Notebook con el objetivo de probar con la funcionalidad de pyg respecto a *predicción de enlaces*.</li>
   <li>*GCN_example.ipynb:* Jupyter Notebook con código de *clasificación de nodos* de un grafo (ejemplo)</li>
-  <li>*Graph2Vec.ipynb: *Graph Embedding de "cardiovascular system drugs" utilizado algoritmo Graph2Vec y se utilizó Spectral Clustering de scikit learn</li>
+  <li>*Graph2Vec.ipynb:* Graph Embedding de "cardiovascular system drugs" utilizado algoritmo Graph2Vec y se utilizó Spectral Clustering de scikit learn</li>
   <li>*GraphEmbeddingNetworkExample.ipynb: *Graph Embedding utilizando GNN (SAGE) para realizar embebido con features</li>
-  <li>*NNClustering.ipynb: *Graph Embedding de "cardiovascular system drugs" utilizado algoritmo Graph2Vec y clustering con Neural Network</li>
-  <li>*Smiles_to_graph: *Explicación de transformación de Smiles a grafos y descripción de los features</li>
+  <li>*NNClustering.ipynb:* Graph Embedding de "cardiovascular system drugs" utilizado algoritmo Graph2Vec y clustering con Neural Network</li>
+  <li>*Smiles_to_graph:* Explicación de transformación de Smiles a grafos y descripción de los features</li>
 </ul>
